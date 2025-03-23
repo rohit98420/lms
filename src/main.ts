@@ -7,7 +7,7 @@ async function bootstrap() {
 
 
   
-  //Middleware is applied here
+ 
   app.useGlobalPipes(new ValidationPipe());
 
 
